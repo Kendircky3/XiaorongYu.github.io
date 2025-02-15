@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Xiaorong Yu"
 description              : &description "QMSS Student at Columbia University"
 url                      : https://Kendircky3.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/XiaorongYu.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "Kendircky3/XiaorongYu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
